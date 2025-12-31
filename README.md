@@ -56,8 +56,7 @@ The data shows that internal factors are the primary bottleneck, not machine fai
 * **Top Performer:** **Charlie** (66.8% Efficiency)
 * **Lowest Performer:** **Mac** (60.9% Efficiency)
 
-![Dashboard Screenshot](Add_Your_Dashboard_Screenshot_Here.png)
-*(Note: Replace this placeholder with a screenshot of your main dashboard)*
+<img width="1374" height="775" alt="Image" src="https://github.com/user-attachments/assets/da7a19ae-58e1-473d-834c-67d91a990620" />
 
 ---
 
