@@ -62,7 +62,7 @@ The data shows that internal factors are the primary bottleneck, not machine fai
 
 ---
 
-## 🚀 Recommendations
+## ✅ Recommendations
 Based on the data, I recommend the following immediate actions:
 
 1.  **Implement "Machine Adjustment" SOPs:** Since 332 minutes were lost to adjustments (the top downtime factor), create a standardized checklist for operators to follow. This will reduce variability and "trial and error" time.
@@ -71,7 +71,7 @@ Based on the data, I recommend the following immediate actions:
 
 ---
 
-## 🧮 Technical Appendix: DAX Measures
+## ⚪ Technical Appendix: DAX Measures
 Key calculations used in this report:
 
 **1. Line Efficiency %**
