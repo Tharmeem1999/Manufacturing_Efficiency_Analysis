@@ -34,8 +34,7 @@ Built a relational data model to connect transaction tables with dimension table
 * **Dimension Tables:** `Products`, `Downtime Factors`
 * **Relationships:** One-to-Many relationships established between Products/Factors and the Fact tables.
 
-![Data Model Screenshot](Add_Your_Model_View_Screenshot_Here.png)
-*(Note: Replace this placeholder with a screenshot of your Model View)*
+<img width="1307" height="679" alt="Image" src="https://github.com/user-attachments/assets/8e51b097-c5cc-452b-96ef-98e129301f90" />
 
 ---
 
