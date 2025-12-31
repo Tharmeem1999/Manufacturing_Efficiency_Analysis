@@ -12,7 +12,9 @@
 
 ## 💼 Business Problem
 **The Client:** Wolf Cola, a soft drink manufacturer based in Philadelphia.
+
 **The Challenge:** The bottling production line is experiencing inconsistent output and unexplained downtime. The previous manager left raw data files but no analysis.
+
 **The Objective:**
 1.  Calculate the overall **Line Efficiency %**.
 2.  Identify the top **Downtime Factors** hindering production.
