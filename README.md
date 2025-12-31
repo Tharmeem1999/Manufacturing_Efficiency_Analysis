@@ -77,3 +77,14 @@ Key calculations used in this report:
 **1. Line Efficiency %**
 ```dax
 Line Efficiency % = DIVIDE([Total Expected Time], [Total Actual Time], 0)
+```
+
+**2. Total Expected Time**
+```dax
+Total Expected Time = SUMX('Line Productivity', RELATED('Products'[Min batch time]))
+```
+
+**3. Total Downtime**
+```dax
+Total Downtime = SUM('Line Downtime'[Downtime Minutes])
+```
